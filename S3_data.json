@@ -1,0 +1,880 @@
+{
+  "G": {
+    "mult": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        0,
+        4,
+        5,
+        3
+      ],
+      [
+        2,
+        0,
+        1,
+        5,
+        3,
+        4
+      ],
+      [
+        3,
+        5,
+        4,
+        0,
+        2,
+        1
+      ],
+      [
+        4,
+        3,
+        5,
+        1,
+        0,
+        2
+      ],
+      [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ]
+    ],
+    "irreps": [
+      [
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(-1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(-1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(-1)"
+            }
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            },
+            {
+              "__sympy_srepr__": "Integer(0)"
+            }
+          ],
+          [
+            {
+              "__sympy_srepr__": "Integer(0)"
+            },
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Rational(-1, 2)"
+            },
+            {
+              "__sympy_srepr__": "Mul(Integer(-1), Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+            }
+          ],
+          [
+            {
+              "__sympy_srepr__": "Mul(Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+            },
+            {
+              "__sympy_srepr__": "Rational(-1, 2)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Rational(-1, 2)"
+            },
+            {
+              "__sympy_srepr__": "Mul(Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+            }
+          ],
+          [
+            {
+              "__sympy_srepr__": "Mul(Integer(-1), Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+            },
+            {
+              "__sympy_srepr__": "Rational(-1, 2)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            },
+            {
+              "__sympy_srepr__": "Integer(0)"
+            }
+          ],
+          [
+            {
+              "__sympy_srepr__": "Integer(0)"
+            },
+            {
+              "__sympy_srepr__": "Integer(-1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Rational(-1, 2)"
+            },
+            {
+              "__sympy_srepr__": "Mul(Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+            }
+          ],
+          [
+            {
+              "__sympy_srepr__": "Mul(Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+            },
+            {
+              "__sympy_srepr__": "Rational(1, 2)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Rational(-1, 2)"
+            },
+            {
+              "__sympy_srepr__": "Mul(Integer(-1), Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+            }
+          ],
+          [
+            {
+              "__sympy_srepr__": "Mul(Integer(-1), Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+            },
+            {
+              "__sympy_srepr__": "Rational(1, 2)"
+            }
+          ]
+        ]
+      ]
+    ]
+  },
+  "subgroups": [
+    {
+      "mult": [
+        [
+          0
+        ]
+      ],
+      "incl_map": [
+        0
+      ],
+      "coh_and_irreps": [
+        {
+          "cocycle": [
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ]
+          ],
+          "irreps": [
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "mult": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "incl_map": [
+        0,
+        3
+      ],
+      "coh_and_irreps": [
+        {
+          "cocycle": [
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ],
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ]
+          ],
+          "irreps": [
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(-1)"
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "mult": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          1
+        ]
+      ],
+      "incl_map": [
+        0,
+        1,
+        2
+      ],
+      "coh_and_irreps": [
+        {
+          "cocycle": [
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ],
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ],
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ]
+          ],
+          "irreps": [
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Add(Rational(-1, 2), Mul(Rational(1, 2), Pow(Integer(3), Rational(1, 2)), I))"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Add(Rational(-1, 2), Mul(Integer(-1), Rational(1, 2), Pow(Integer(3), Rational(1, 2)), I))"
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Add(Rational(-1, 2), Mul(Integer(-1), Rational(1, 2), Pow(Integer(3), Rational(1, 2)), I))"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Add(Rational(-1, 2), Mul(Rational(1, 2), Pow(Integer(3), Rational(1, 2)), I))"
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "mult": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          1,
+          2,
+          0,
+          4,
+          5,
+          3
+        ],
+        [
+          2,
+          0,
+          1,
+          5,
+          3,
+          4
+        ],
+        [
+          3,
+          5,
+          4,
+          0,
+          2,
+          1
+        ],
+        [
+          4,
+          3,
+          5,
+          1,
+          0,
+          2
+        ],
+        [
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "incl_map": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "coh_and_irreps": [
+        {
+          "cocycle": [
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ],
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ],
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ],
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ],
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ],
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ]
+          ],
+          "irreps": [
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(-1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(-1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(-1)"
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  },
+                  {
+                    "__sympy_srepr__": "Integer(0)"
+                  }
+                ],
+                [
+                  {
+                    "__sympy_srepr__": "Integer(0)"
+                  },
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Rational(-1, 2)"
+                  },
+                  {
+                    "__sympy_srepr__": "Mul(Integer(-1), Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+                  }
+                ],
+                [
+                  {
+                    "__sympy_srepr__": "Mul(Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+                  },
+                  {
+                    "__sympy_srepr__": "Rational(-1, 2)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Rational(-1, 2)"
+                  },
+                  {
+                    "__sympy_srepr__": "Mul(Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+                  }
+                ],
+                [
+                  {
+                    "__sympy_srepr__": "Mul(Integer(-1), Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+                  },
+                  {
+                    "__sympy_srepr__": "Rational(-1, 2)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  },
+                  {
+                    "__sympy_srepr__": "Integer(0)"
+                  }
+                ],
+                [
+                  {
+                    "__sympy_srepr__": "Integer(0)"
+                  },
+                  {
+                    "__sympy_srepr__": "Integer(-1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Rational(-1, 2)"
+                  },
+                  {
+                    "__sympy_srepr__": "Mul(Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+                  }
+                ],
+                [
+                  {
+                    "__sympy_srepr__": "Mul(Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+                  },
+                  {
+                    "__sympy_srepr__": "Rational(1, 2)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Rational(-1, 2)"
+                  },
+                  {
+                    "__sympy_srepr__": "Mul(Integer(-1), Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+                  }
+                ],
+                [
+                  {
+                    "__sympy_srepr__": "Mul(Integer(-1), Rational(1, 2), Pow(Integer(3), Rational(1, 2)))"
+                  },
+                  {
+                    "__sympy_srepr__": "Rational(1, 2)"
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

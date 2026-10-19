@@ -1,0 +1,154 @@
+{
+  "G": {
+    "mult": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "irreps": [
+      [
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(1)"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "__sympy_srepr__": "Integer(-1)"
+            }
+          ]
+        ]
+      ]
+    ]
+  },
+  "subgroups": [
+    {
+      "mult": [
+        [
+          0
+        ]
+      ],
+      "incl_map": [
+        0
+      ],
+      "coh_and_irreps": [
+        {
+          "cocycle": [
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ]
+          ],
+          "irreps": [
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "mult": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "incl_map": [
+        0,
+        1
+      ],
+      "coh_and_irreps": [
+        {
+          "cocycle": [
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ],
+            [
+              {
+                "__sympy_srepr__": "Integer(1)"
+              },
+              {
+                "__sympy_srepr__": "Integer(1)"
+              }
+            ]
+          ],
+          "irreps": [
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(1)"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "__sympy_srepr__": "Integer(-1)"
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
